@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+  font-family: 'Pathway Gothic One', sans-serif;
+  margin-left: 40%;
+  font-weight: 700;
+  color: #feda4a;
+  background-image: url("https://i.ytimg.com/vi/EZ7la-hMNuk/maxresdefault.jpg")
+}
+
+.container {
+  color: white;
+  width: 300px;
+  border: 2px solid white;
+  border-radius: 5px;
+  
+}
+
+h2 { 
+text-align: center;
+}
+
+
+
